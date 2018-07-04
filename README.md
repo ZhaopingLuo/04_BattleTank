@@ -6,25 +6,23 @@ This is the [Unreal Engine Developer]( http://gdev.tv/urcgithub) course – it s
 
 You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Unreal Engine Developer]( http://gdev.tv/urcgithub)
 
-##GDD
+## GDD
 
-###Concept
-	+open-world,head-to-head tank combat game
-	+terrain will be used for tactical advantage
-	+focus will be on flow and feel(手感)
-###Rules
-	+move anywhere in the terrain(surronded by mountains)
-	+both players start with finite health and ammo
-	+each direct hit takes away health
-	+the last player wins
-###Requirements
-	+SFX: gun firing, explosion, barrel moving, turret moving, engine sound
-	+Static mesh: simple tank comprising tracks, body, turret and barrel
-		(这里先用primitive objects基础几何对象做。just to test control and audio)
-	+Textures: visual flare 闪光
-	+Music: background music to create tension 紧张气氛
-
-
+### Concept
++ open-world,head-to-head tank combat game
++ terrain will be used for tactical advantage
++ focus will be on flow and feel(手感)
+### Rules
++ move anywhere in the terrain(surronded by mountains)
++ both players start with finite health and ammo
++ each direct hit takes away health
++ the last player wins
+### Requirements
++ SFX: gun firing, explosion, barrel moving, turret moving, engine sound
++ Static mesh: simple tank comprising tracks, body, turret and barrel
+(这里先用primitive objects基础几何对象做。just to test control and audio)
++ Textures: visual flare 闪光
++ Music: background music to create tension 紧张气氛
 
 -------------
 ## In This Section
